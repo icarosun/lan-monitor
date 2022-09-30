@@ -1,2 +1,2 @@
 # lan-monitor
-Software desenvolvido para monitorar o travamento dos servidores numa rede Lan.
+Programa desenvolvido para monitorar o travamento dos servidores em uma rede Lan.
